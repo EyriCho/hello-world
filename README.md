@@ -1,2 +1,5 @@
 # hello-world
-This is the first time I use github repository!
+
+Hi, guys!
+This is my first repository in github, I like javascript, .net and wanna using it everywhere,
+from front to end. Contact me if you wanna talk about it!
